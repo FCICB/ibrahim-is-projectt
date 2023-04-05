@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1680526952 source:d:\online food ordering system\main.cpp
+	<iostream>
+	"Food.h"
+	"ShoppingCart.h"
+	"Menu.h"
+
+1680359753 d:\online food ordering system\food.h
+	<iostream>
+	<vector>
+	<fstream>
+	<algorithm>
+	<string>
+	<sstream>
+
+1680526915 d:\online food ordering system\shoppingcart.h
+	"Food.h"
+	"Menu.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<algorithm>
+	<string>
+	<sstream>
+
+1680451022 d:\online food ordering system\menu.h
+	"Food.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<algorithm>
+	<string>
+	<sstream>
+
