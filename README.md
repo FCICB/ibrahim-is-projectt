@@ -7,7 +7,7 @@ and you can choose your food based on popularity or prices
 this app can dealing with cash 
 
 ## Getting Started
-**/ clone the repositry **
+** clone the repositry **
 it doesn't need to requirements 
 
 issues:
