@@ -1,12 +1,12 @@
 
 # online Food Ordering System #
-##overview:##
+## overview: ##
 
 This application allows you to buy food and choose between several meals on the menu
 and you can choose your food based on popularity or prices 
 this app can dealing with cash 
 
-How to install : 
+## How to install : 
 you can install it on vscode or codeblocks 
 it doesn't need to requirements 
 
