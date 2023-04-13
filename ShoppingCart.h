@@ -20,16 +20,12 @@ class ShoppingCart {
     void addItem(string name) {
         //m.loadMenu();
         for (const auto& q : m.foods) {
-                //q.displayDetails();
                 if (q.getName().find(name) != string::npos) {
-                        //cout<<" sa";
                         if (q.getQuantity() == 0) {
                         throw runtime_error("Out of stock");
                     }items.push_back(q);
 
                     }
-                    //cout<<"sasa";
-                    //q.displayDetails();
 
                 }
         }
